@@ -16,3 +16,4 @@ module.exports = {
     cookie:  {maxAge: 60000*5}
   }
 };
+//////本地默认是开发模式； 需要启动MONGODB 服务；已经redis服务；
